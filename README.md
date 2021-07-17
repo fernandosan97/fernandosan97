@@ -3,5 +3,7 @@
    <h3 align="center">¡Hey 👋! Soy Fernando Sanchez 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Web</strong><br/>Soy un apacionado por el mundo del desarrollo web, me encanta el frontend y asi mismo el backend. 
+<p align="center">Soy <strong>Desarrollador Web</strong><br/>Soy un apasionado por el mundo del desarrollo web, me encanta el frontend y asi mismo el backend. 
 Me interesa mucho como funciona la web y eso me motiva a seguir aprendiendo sobre ello.</p>
+
+<p align="center">Contact : <a href='fs_sanchez97@outlook.es'> fs_sanchez97@outlook.es</a> ✉️</p>
